@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Sathi",
+  "description": "De-congestion & Trust Layer for sustainable Indian tourism with ASI-verified travel twins, audio AI assistance, and fair local economy.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
